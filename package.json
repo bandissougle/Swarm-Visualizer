@@ -41,7 +41,7 @@
     "file-loader": "^0.8.4",
     "http-proxy-middleware": "^0.19.1",
     "json-loader": "^0.5.7",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "mocha": "^2.2.5",
     "null-loader": "^0.1.1",
     "open": "0.0.5",
